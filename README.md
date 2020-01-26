@@ -3,7 +3,7 @@ Fake News NLP Project
 
 Contains:
 
-Jupyter Notesbook - !!!most-recent-analysis.ipynb
+Jupyter Notesbook - analysis.ipynb
 
 Report- capstone2pdf.pdf
 
