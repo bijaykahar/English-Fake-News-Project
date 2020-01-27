@@ -7,4 +7,4 @@ Jupyter Notesbook - analysis.ipynb
 
 Report- capstone2pdf.pdf
 
-Slides - slidedeck.pdf
+Slides - slide-deck.pdf
