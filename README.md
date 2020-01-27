@@ -5,6 +5,6 @@ Contains:
 
 Jupyter Notesbook - analysis.ipynb
 
-Report- capstone2pdf.pdf
+Report- report.pdf
 
 Slides - slide-deck.pdf
